@@ -17,12 +17,7 @@ The main page contains:
 Presenter can use this hands-free application for navigating through presentations in office meeting or in lectures. 
 ## Technology used
 We have used LPC coefficients and Hidden Markov Model for this application. 
-## Team members
-Madhurima Sen (224101034)  
 
-Soumya Asati  (224101046)  
-
-Vaishali Chaudhari (224101055)  
 ## Flowchart
 ![Flowchart](https://github.com/sen99m/SpeechBasedPresentaionNavigator/blob/master/Screenshots_flowchart/Flowchart.png?raw=true)
 ## Screenshots
